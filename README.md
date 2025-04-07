@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creating more fun games and making websites whenever I am free most of my time.
 - 📫 How to reach me: Andrei.gogan1@gmail.com (Personal account).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: If you ever get a merge conflict on some codes, you can just easily recopy the new code which had the conflict and copy & paste it on the old merge conflicted code. (Found this out myself)
+
 
 <!---
 AndreiGwn/AndreiGwn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
